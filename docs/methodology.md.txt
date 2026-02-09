@@ -1,0 +1,4 @@
+# Methodology
+
+The spatial analysis is conducted in EGSA87 (EPSG:2100) to ensure accurate
+distance-based calculations for the study area in Greece.
